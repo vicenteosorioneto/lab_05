@@ -1,4 +1,4 @@
-"""
+ """
 transformer_from_scratch.py
 ───────────────────────────
 Modelo Transformer Encoder-Decoder construído do zero com PyTorch.
